@@ -6,3 +6,6 @@ target/
 *.db-journal
 *.db-wal
 *.db-shm
+
+# Uploaded proof photos (runtime)
+uploads/
